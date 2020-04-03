@@ -10,7 +10,7 @@ My works related to Gitea, an open-source forge software package for hosting sof
 <a name="introduction"></a>
 ## 1. Introduction.
 <img src="gitea.png" height="110">
-Gitea is a community managed lightweight code hosting solution written in Go. It is published under the MIT license.
+Gitea is a community managed lightweight code hosting solution written in Go programming language. It is published under the MIT license.
 <br /><br />
 Gitea is an open-source forge software package for hosting software development version control using Git as well as other collaborative features like bug tracking, wikis and code review. It supports self-hosting but also provides a free public first-party instance. It is a fork of Gogs and is written in Go. Gitea can be hosted on all platforms supported by Go including Linux, macOS, and Windows. The project is funded on Open Collective.
 
